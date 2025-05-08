@@ -11,3 +11,9 @@ Check it on the container's URL:
 
 To view the API documentation, access:  
 `http://127.0.0.1/docs`
+
+To access the container:
+`sudo docker start fastapi_container`
+`http://localhost:8080`
+`http://localhost:8080/docs`
+
