@@ -14,5 +14,7 @@ To view the API documentation, access:
 
 To run it anytime:  
 `sudo docker start fastapi_container`  
+
+Then access:  
 `http://localhost:8080`  
 `http://localhost:8080/docs`  
